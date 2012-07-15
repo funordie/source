@@ -1,0 +1,12 @@
+[submodule "ShutDown"]
+	path = ShutDown
+	url = git@github.com:funordie/ShutDown.git
+[submodule "http_download"]
+	path = http_download
+	url = git@github.com:funordie/http_download.git
+[submodule "Download_book"]
+	path = Download_book
+	url = git@github.com:funordie/Download_book.git
+[submodule "repostory"]
+	path = repostory
+	url = git@github.com:funordie/repostory.git
