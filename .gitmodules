@@ -10,3 +10,6 @@
 [submodule "repostory"]
 	path = repostory
 	url = git@github.com:funordie/repostory.git
+[submodule "ceni_download"]
+	path = ceni_download
+	url = ./ceni_download
